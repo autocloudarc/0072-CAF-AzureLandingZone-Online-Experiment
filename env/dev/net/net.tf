@@ -43,7 +43,6 @@ resource "azurerm_subnet" "bas_snt" {
   name = var.vnt.bas_sub_name
   virtual_network_name = "${var.resource_codes.prefix}-${var.resource_codes.vnet}-${local.rnum}"
   resource_group_name = var.rgp_name
-  # TASK-ITEM: temporarily hard-coding 11 for subnet 3rd octet to avoid CIDR formatting error
   address_prefixes = ["${var.vnt.addr_space_prefix}.${local.bas3rdOctet}.${var.vnt.bas_sub_range_suffix}"]
   depends_on = [
     azurerm_virtual_network.vnt,

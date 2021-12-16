@@ -281,9 +281,3 @@ module "web" {
     module.net
   ]
 }
-# 11. avset
-# 12. scale set
-# 13. alb
-
-# data
-# 14. sql server
