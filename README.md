@@ -23,6 +23,7 @@ This project is released under the [MIT license](https://mit-license.org/).
 
 ## References
 
-1. [Terraform Intro] (<https://www.terraform.io/intro/> "Terraform Intro")
-2. [stackoverflow] (<https://stackoverflow.com/questions/66024950/how-to-organize-terraform-modules-for-multiple-environments/> "stackoverflow")
-3. [Terraform Best Practices - Jack Roper](<https://medium.com/codex/terraform-best-practices-how-to-structure-your-terraform-projects-b5b050eab554/> "Best Practices Blog")
+1. [Terraform Intro] (<https://www.terraform.io/intro/>)
+2. [Terraform Tutorials] (<https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code?in=terraform/azure-get-started>)
+3. [stackoverflow] (<https://stackoverflow.com/questions/66024950/how-to-organize-terraform-modules-for-multiple-environments/>)
+4. [Terraform Best Practices - Jack Roper](<https://medium.com/codex/terraform-best-practices-how-to-structure-your-terraform-projects-b5b050eab554/>)
