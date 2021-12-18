@@ -10,12 +10,16 @@ This is really just an experiment for us which aims to establish a basic framewo
 
 To start using this project, we recommend cloning it to your local system, set up your Terraform directory structure, create your backend state file out-of-band (i.e. in an Azure storage account and container), and set your logging environment variables for the log level and path.
 
-## How to execute Terraform Plans with CLI variable override values
+## How to execute Terraform operations with CLI variable override values
 
 Due to the sensitivity of the tenant id and KeyVault resource id values, use the following example to override and specify your own custom values for your environment
 
-1. terraform apply -var tenant_id="<your-actual-tenant-id>" -var kvt_res_id="<your-actual-keyvault-resource-id>"
+1. terraform apply -var tenant_id="`<your-actual-tenant-id>`" -var kvt_res_id="`<your-actual-keyvault-resource-id>`"
 
+2. terraform destroy -var tenant_id="`<your-actual-tenant-id>`" -var kvt_res_id="`<your-actual-keyvault-resource-id>`"
+   
+3. Note that inside the **main.auto.tfvars** file, the invalid assigned values for the **tenant_id** and **kvt_res_id** values are; tenant_id = "`<tenantid>`" and kvt_res_id = "`<kvt_res_id>`" respectively which must *both* be overriden.
+   
 ## Target State Diagram
 
 ![_Figure: Target State Diagram_](./doc/images/0072-tsd-diagram.png "TSD")
