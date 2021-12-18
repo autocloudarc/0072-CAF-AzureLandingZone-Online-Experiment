@@ -113,3 +113,455 @@
 2021-12-18T14:12:53.182-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
 2021-12-18T14:12:53.184-0500 [INFO]  CLI command args: []string{"init", "-reconfigure"}
 2021-12-18T14:12:53.753-0500 [INFO]  Failed to read plugin lock file C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: open C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: The system cannot find the path specified.
+2021-12-18T14:17:17.341-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T14:17:17.342-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T14:17:17.342-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "plan"}
+2021-12-18T14:17:17.348-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T14:17:17.357-0500 [INFO]  CLI command args: []string{"plan"}
+2021-12-18T14:17:30.783-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T14:17:30.784-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T14:17:30.784-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T14:17:30.793-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T14:17:30.795-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T14:17:58.717-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T14:17:58.718-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T14:17:58.718-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init", "-migrate-state"}
+2021-12-18T14:17:58.727-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T14:17:58.730-0500 [INFO]  CLI command args: []string{"init", "-migrate-state"}
+2021-12-18T14:18:00.168-0500 [INFO]  Failed to read plugin lock file C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: open C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: The system cannot find the path specified.
+2021-12-18T14:18:00.173-0500 [INFO]  Testing if Service Principal / Client Certificate is applicable for Authentication..
+2021-12-18T14:18:00.173-0500 [INFO]  Testing if Multi Tenant Service Principal / Client Secret is applicable for Authentication..
+2021-12-18T14:18:00.173-0500 [INFO]  Testing if Service Principal / Client Secret is applicable for Authentication..
+2021-12-18T14:18:00.173-0500 [INFO]  Testing if Managed Service Identity is applicable for Authentication..
+2021-12-18T14:18:00.173-0500 [INFO]  Testing if Obtaining a Multi-tenant token from the Azure CLI is applicable for Authentication..
+2021-12-18T14:18:00.173-0500 [INFO]  Testing if Obtaining a token from the Azure CLI is applicable for Authentication..
+2021-12-18T14:18:00.173-0500 [INFO]  Using Obtaining a token from the Azure CLI for Authentication
+2021-12-18T14:18:03.278-0500 [INFO]  Getting OAuth config for endpoint https://login.microsoftonline.com/ with  tenant 72f988bf-86f1-41af-91ab-2d7cd011db47
+2021-12-18T14:18:07.680-0500 [INFO]  Failed to read plugin lock file C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: open C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: The system cannot find the path specified.
+2021-12-18T14:18:37.948-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T14:18:37.949-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T14:18:37.949-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T14:18:37.955-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T14:18:37.957-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T14:18:38.523-0500 [INFO]  Failed to read plugin lock file C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: open C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: The system cannot find the path specified.
+2021-12-18T14:18:49.619-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T14:18:49.619-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T14:18:49.619-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "plan"}
+2021-12-18T14:18:49.627-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T14:18:49.629-0500 [INFO]  CLI command args: []string{"plan"}
+2021-12-18T14:18:50.200-0500 [INFO]  Failed to read plugin lock file C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: open C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: The system cannot find the path specified.
+2021-12-18T14:18:50.209-0500 [INFO]  backend/local: starting Plan operation
+2021-12-18T14:18:50.219-0500 [INFO]  provider: configuring client automatic mTLS
+2021-12-18T14:18:51.455-0500 [INFO]  provider.terraform-provider-azurerm_v2.46.1_x5.exe: configuring server automatic mTLS: timestamp=2021-12-18T14:18:51.454-0500
+2021-12-18T14:18:51.604-0500 [INFO]  provider: configuring client automatic mTLS
+2021-12-18T14:18:52.352-0500 [INFO]  provider.terraform-provider-random_v3.1.0_x5.exe: configuring server automatic mTLS: timestamp=2021-12-18T14:18:52.352-0500
+2021-12-18T14:18:52.459-0500 [INFO]  terraform: building graph: GraphTypeValidate
+2021-12-18T14:18:52.465-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.465-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.465-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.465-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.465-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.466-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.467-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.467-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.468-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.468-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.468-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.468-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.480-0500 [INFO]  provider: configuring client automatic mTLS
+2021-12-18T14:18:52.547-0500 [INFO]  provider.terraform-provider-random_v3.1.0_x5.exe: configuring server automatic mTLS: timestamp=2021-12-18T14:18:52.546-0500
+2021-12-18T14:18:52.634-0500 [INFO]  provider: configuring client automatic mTLS
+2021-12-18T14:18:52.738-0500 [INFO]  provider.terraform-provider-azurerm_v2.46.1_x5.exe: configuring server automatic mTLS: timestamp=2021-12-18T14:18:52.737-0500
+2021-12-18T14:18:52.965-0500 [INFO]  backend/local: plan calling Plan
+2021-12-18T14:18:52.965-0500 [INFO]  terraform: building graph: GraphTypePlan
+2021-12-18T14:18:52.971-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.971-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.971-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.971-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.972-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.973-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.973-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.973-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:18:52.994-0500 [INFO]  provider: configuring client automatic mTLS
+2021-12-18T14:18:53.077-0500 [INFO]  provider.terraform-provider-random_v3.1.0_x5.exe: configuring server automatic mTLS: timestamp=2021-12-18T14:18:53.076-0500
+2021-12-18T14:18:53.214-0500 [INFO]  provider: configuring client automatic mTLS
+2021-12-18T14:18:53.321-0500 [INFO]  provider.terraform-provider-azurerm_v2.46.1_x5.exe: configuring server automatic mTLS: timestamp=2021-12-18T14:18:53.320-0500
+2021-12-18T14:18:53.425-0500 [WARN]  Provider "registry.terraform.io/hashicorp/random" produced an invalid plan for random_string.rnd, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .min_lower: planned value cty.NumberIntVal(0) for a non-computed attribute
+      - .min_numeric: planned value cty.NumberIntVal(0) for a non-computed attribute
+      - .min_special: planned value cty.NumberIntVal(0) for a non-computed attribute
+      - .min_upper: planned value cty.NumberIntVal(0) for a non-computed attribute
+2021-12-18T14:18:53.572-0500 [WARN]  ValidateProviderConfig from "provider[\"registry.terraform.io/hashicorp/azurerm\"]" changed the config value, but that value is unused
+2021-12-18T14:19:13.850-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.850-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.850-0500 [INFO]  ReferenceTransformer: reference not found: "local.res_num"
+2021-12-18T14:19:13.850-0500 [INFO]  ReferenceTransformer: reference not found: "var.tags"
+2021-12-18T14:19:13.850-0500 [INFO]  ReferenceTransformer: reference not found: "var.region"
+2021-12-18T14:19:13.853-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.853-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnd_string"
+2021-12-18T14:19:13.853-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.853-0500 [INFO]  ReferenceTransformer: reference not found: "local.res_num"
+2021-12-18T14:19:13.853-0500 [INFO]  ReferenceTransformer: reference not found: "var.rsv_sku"
+2021-12-18T14:19:13.853-0500 [INFO]  ReferenceTransformer: reference not found: "var.tags"
+2021-12-18T14:19:13.854-0500 [INFO]  ReferenceTransformer: reference not found: "var.sta"
+2021-12-18T14:19:13.854-0500 [INFO]  ReferenceTransformer: reference not found: "var.tags"
+2021-12-18T14:19:13.854-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.854-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnd_string"
+2021-12-18T14:19:13.854-0500 [INFO]  ReferenceTransformer: reference not found: "var.sta"
+2021-12-18T14:19:13.854-0500 [INFO]  ReferenceTransformer: reference not found: "var.kvt_retention_days"
+2021-12-18T14:19:13.854-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.854-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnd_string"
+2021-12-18T14:19:13.855-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.855-0500 [INFO]  ReferenceTransformer: reference not found: "local.res_num"
+2021-12-18T14:19:13.855-0500 [INFO]  ReferenceTransformer: reference not found: "var.kvt_sku"
+2021-12-18T14:19:13.855-0500 [INFO]  ReferenceTransformer: reference not found: "var.tenant_id"
+2021-12-18T14:19:13.855-0500 [INFO]  ReferenceTransformer: reference not found: "var.tags"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.net_rnd_str"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.net_rnd_str"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "var.pips"
+2021-12-18T14:19:13.856-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.857-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.857-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.857-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.857-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.857-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.857-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.857-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.857-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_name_list"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_name_list"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.tags"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_name_list"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.tags"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_name_list"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_name_list"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_name_list"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.859-0500 [INFO]  ReferenceTransformer: reference not found: "var.tags"
+2021-12-18T14:19:13.860-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_public_ip.pip[0], but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .ip_version: planned value cty.StringVal("IPv4") for a non-computed attribute
+      - .idle_timeout_in_minutes: planned value cty.NumberIntVal(4) for a non-computed attribute
+2021-12-18T14:19:13.861-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_public_ip.pip[1], but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .ip_version: planned value cty.StringVal("IPv4") for a non-computed attribute
+      - .idle_timeout_in_minutes: planned value cty.NumberIntVal(4) for a non-computed attribute
+2021-12-18T14:19:13.863-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.864-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.864-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_virtual_network.vnt, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .vm_protection_enabled: planned value cty.False for a non-computed attribute
+2021-12-18T14:19:13.864-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.864-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.864-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.864-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for azurerm_storage_account.sta, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .allow_blob_public_access: planned value cty.False for a non-computed attribute
+      - .account_kind: planned value cty.StringVal("StorageV2") for a non-computed attribute
+      - .is_hns_enabled: planned value cty.False for a non-computed attribute
+      - .enable_https_traffic_only: planned value cty.True for a non-computed attribute
+      - .min_tls_version: planned value cty.StringVal("TLS1_0") for a non-computed attribute
+      - .blob_properties: attribute representing nested block must not be unknown itself; set nested attribute values to unknown instead
+      - .identity: attribute representing nested block must not be unknown itself; set nested attribute values to unknown instead
+      - .network_rules: attribute representing nested block must not be unknown itself; set nested attribute values to unknown instead
+      - .queue_properties: attribute representing nested block must not be unknown itself; set nested attribute values to unknown instead
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_virtual_network.vnt"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_virtual_network.vnt"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.866-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.867-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.867-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_storage_account.sta"
+2021-12-18T14:19:13.867-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.867-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnd_string"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_virtual_network.vnt"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.868-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.869-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_lb.elb, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .frontend_ip_configuration[0].private_ip_address_version: planned value cty.StringVal("IPv4") for a non-computed attribute
+2021-12-18T14:19:13.869-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_subnet.web_snt, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enforce_private_link_endpoint_network_policies: planned value cty.False for a non-computed attribute
+      - .enforce_private_link_service_network_policies: planned value cty.False for a non-computed attribute
+2021-12-18T14:19:13.870-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_subnet.dev_snt, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enforce_private_link_endpoint_network_policies: planned value cty.False for a non-computed attribute
+      - .enforce_private_link_service_network_policies: planned value cty.False for a non-computed attribute
+2021-12-18T14:19:13.870-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_subnet.sql_snt, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enforce_private_link_endpoint_network_policies: planned value cty.False for a non-computed attribute
+      - .enforce_private_link_service_network_policies: planned value cty.False for a non-computed attribute
+2021-12-18T14:19:13.872-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.872-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.872-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_virtual_network.vnt"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_subnet.dev_snt"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "local.bas3rdOctet"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "var.vnt"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "local.rnum"
+2021-12-18T14:19:13.874-0500 [INFO]  ReferenceTransformer: reference not found: "local.subnet_id_list"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_network_security_group.nsg"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "local.subnet_id_list"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "local.subnet_id_list"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_network_security_group.nsg"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "local.subnet_id_list"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "local.subnet_id_list"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_network_security_group.nsg"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "local.subnet_id_list"
+2021-12-18T14:19:13.875-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.875-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_lb_backend_address_pool.bep, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .backend_address: attribute representing nested block must not be unknown itself; set nested attribute values to unknown instead
+2021-12-18T14:19:13.876-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.876-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.876-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.876-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.876-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.876-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "var.nics"
+2021-12-18T14:19:13.877-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.878-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_subnet.bas_snt, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enforce_private_link_service_network_policies: planned value cty.False for a non-computed attribute
+      - .enforce_private_link_endpoint_network_policies: planned value cty.False for a non-computed attribute
+2021-12-18T14:19:13.879-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.879-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.879-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.879-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.882-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_network_interface.nic[0], but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enable_accelerated_networking: planned value cty.False for a non-computed attribute
+      - .enable_ip_forwarding: planned value cty.False for a non-computed attribute
+      - .ip_configuration[0].private_ip_address_allocation: planned value cty.StringVal("dynamic") does not match config value cty.StringVal("Dynamic")
+      - .ip_configuration[0].private_ip_address_version: planned value cty.StringVal("IPv4") for a non-computed attribute
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_network_security_group.nsg"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_network_security_group.nsg"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.883-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_network_security_group.nsg"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_network_security_group.nsg"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_network_security_group.nsg"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "azurerm_network_security_group.nsg"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.884-0500 [INFO]  ReferenceTransformer: reference not found: "var.nsg_rules"
+2021-12-18T14:19:13.885-0500 [INFO]  ReferenceTransformer: reference not found: "count.index"
+2021-12-18T14:19:13.886-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_network_interface.nic[1], but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enable_accelerated_networking: planned value cty.False for a non-computed attribute
+      - .enable_ip_forwarding: planned value cty.False for a non-computed attribute
+      - .ip_configuration[0].private_ip_address_version: planned value cty.StringVal("IPv4") for a non-computed attribute
+      - .ip_configuration[0].private_ip_address_allocation: planned value cty.StringVal("dynamic") does not match config value cty.StringVal("Dynamic")
+2021-12-18T14:19:13.889-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.889-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_lb_outbound_rule.lbo, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .allocated_outbound_ports: planned value cty.NumberIntVal(1024) for a non-computed attribute
+      - .enable_tcp_reset: planned value cty.False for a non-computed attribute
+      - .idle_timeout_in_minutes: planned value cty.NumberIntVal(4) for a non-computed attribute
+2021-12-18T14:19:13.889-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.889-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.889-0500 [INFO]  ReferenceTransformer: reference not found: "var.bas_rnd_str"
+2021-12-18T14:19:13.889-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_codes"
+2021-12-18T14:19:13.889-0500 [INFO]  ReferenceTransformer: reference not found: "var.resource_number"
+2021-12-18T14:19:13.890-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.890-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.890-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.890-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.890-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.890-0500 [INFO]  ReferenceTransformer: reference not found: "var.alb"
+2021-12-18T14:19:13.896-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.net.azurerm_lb_rule.lbr, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .enable_floating_ip: planned value cty.False for a non-computed attribute
+2021-12-18T14:19:13.899-0500 [INFO]  ReferenceTransformer: reference not found: "var.lb_id"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_location"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.rgp_name"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.vmss_cred"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lbp_id"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.sta_pri_ep"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.vmss_cred"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.900-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.901-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.901-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.901-0500 [INFO]  ReferenceTransformer: reference not found: "var.lvmss"
+2021-12-18T14:19:13.908-0500 [WARN]  Provider "registry.terraform.io/hashicorp/azurerm" produced an invalid plan for module.web.azurerm_linux_virtual_machine_scale_set.lvmss, but we are tolerating it because it is using the legacy plugin SDK.
+    The following problems may be the cause of any confusing errors from downstream operations:
+      - .zone_balance: planned value cty.False for a non-computed attribute
+      - .do_not_run_extensions_on_overprovisioned_machines: planned value cty.False for a non-computed attribute
+      - .disable_password_authentication: planned value cty.True for a non-computed attribute
+      - .provision_vm_agent: planned value cty.True for a non-computed attribute
+      - .single_placement_group: planned value cty.True for a non-computed attribute
+      - .overprovision: planned value cty.True for a non-computed attribute
+      - .priority: planned value cty.StringVal("Regular") for a non-computed attribute
+      - .max_bid_price: planned value cty.NumberIntVal(-1) for a non-computed attribute
+      - .network_interface[0].enable_accelerated_networking: planned value cty.False for a non-computed attribute
+      - .network_interface[0].enable_ip_forwarding: planned value cty.False for a non-computed attribute
+      - .network_interface[0].ip_configuration[0].load_balancer_backend_address_pool_ids: planned value cty.UnknownVal(cty.Set(cty.String)) does not match config value cty.SetVal([]cty.Value{cty.UnknownVal(cty.String)})
+      - .network_interface[0].ip_configuration[0].version: planned value cty.StringVal("IPv4") for a non-computed attribute
+      - .os_disk[0].write_accelerator_enabled: planned value cty.False for a non-computed attribute
+      - .extension: attribute representing nested block must not be unknown itself; set nested attribute values to unknown instead
+2021-12-18T14:19:13.909-0500 [INFO]  backend/local: plan operation completed
