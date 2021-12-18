@@ -1,6 +1,6 @@
 data "azurerm_key_vault_secret" "vm_pw" {
-    name = var.kvt.name
-    key_vault_id = var.kvt.id
+    name = var.kvt_sec_name
+    key_vault_id = var.kvt_res_id
     depends_on = [
       azurerm_key_vault.kvt
     ]
