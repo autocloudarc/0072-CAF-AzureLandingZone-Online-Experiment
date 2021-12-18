@@ -7,13 +7,12 @@ terraform {
       container_name = "dev-tfstate"
       key = "dev.tfstate"
   }
-
+*/
   backend "remote" {
     hostname = "app.terraform.io"
     organization = "autocloudarc"
     workspaces {
-      name = "cli-azr-dev-0072-all"
+      name = "vcs-azr-dev-mgt-0072"
     }
   }
 }
-*/
