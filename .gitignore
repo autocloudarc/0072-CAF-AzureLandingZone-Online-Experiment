@@ -6,7 +6,7 @@ ehthumbs.db
 Desktop.ini
 
 # Log files
-**/.log
+**/*.log
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
