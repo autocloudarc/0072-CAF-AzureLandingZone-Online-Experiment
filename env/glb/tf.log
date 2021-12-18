@@ -1,0 +1,83 @@
+2021-12-18T13:21:33.132-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:21:33.133-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:21:33.133-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "login"}
+2021-12-18T13:21:33.143-0500 [INFO]  CLI command args: []string{"login"}
+2021-12-18T13:22:50.065-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:22:50.066-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:22:50.066-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "login"}
+2021-12-18T13:22:50.076-0500 [INFO]  CLI command args: []string{"login"}
+2021-12-18T13:23:10.021-0500 [ERROR] UIInput scan err: EOF
+2021-12-18T13:23:25.995-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:23:25.996-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:23:25.996-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "login", "--help"}
+2021-12-18T13:23:26.004-0500 [INFO]  CLI command args: []string{"login", "--help"}
+2021-12-18T13:24:01.414-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:24:01.416-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:24:01.416-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "login"}
+2021-12-18T13:24:01.426-0500 [INFO]  CLI command args: []string{"login"}
+2021-12-18T13:25:29.560-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:25:29.561-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:25:29.561-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:25:29.571-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:25:29.575-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:27:40.966-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:27:40.968-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:27:40.968-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:27:40.975-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:27:40.977-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:31:41.969-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:31:41.970-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:31:41.970-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:31:41.982-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:31:41.996-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:35:02.082-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:35:02.084-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:35:02.084-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:35:02.090-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:35:02.093-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:38:49.494-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:38:49.495-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:38:49.495-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:38:49.500-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:38:49.502-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:40:19.794-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:40:19.794-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:40:19.794-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init", "-reconfigure"}
+2021-12-18T13:40:19.802-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:40:19.804-0500 [INFO]  CLI command args: []string{"init", "-reconfigure"}
+2021-12-18T13:40:21.602-0500 [INFO]  Failed to read plugin lock file C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: open C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: The system cannot find the path specified.
+2021-12-18T13:42:07.785-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:42:07.787-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:42:07.787-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:42:07.796-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:42:07.799-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:46:29.572-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:46:29.573-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:46:29.573-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:46:29.578-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:46:29.587-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:47:24.682-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:47:24.683-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:47:24.683-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:47:24.689-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:47:24.691-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:58:34.937-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:58:34.938-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:58:34.939-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:58:34.953-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:58:34.970-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:58:51.596-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:58:51.597-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:58:51.597-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "login"}
+2021-12-18T13:58:51.602-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:58:51.604-0500 [INFO]  CLI command args: []string{"login"}
+2021-12-18T13:59:29.361-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:59:29.362-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:59:29.362-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:59:29.369-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:59:29.372-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T13:59:48.626-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T13:59:48.627-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T13:59:48.627-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T13:59:48.635-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T13:59:48.638-0500 [INFO]  CLI command args: []string{"init"}
