@@ -81,3 +81,14 @@
 2021-12-18T13:59:48.627-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
 2021-12-18T13:59:48.635-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
 2021-12-18T13:59:48.638-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T14:01:22.121-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T14:01:22.122-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T14:01:22.122-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init"}
+2021-12-18T14:01:22.132-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T14:01:22.143-0500 [INFO]  CLI command args: []string{"init"}
+2021-12-18T14:01:36.790-0500 [INFO]  Terraform version: 1.0.11
+2021-12-18T14:01:36.790-0500 [INFO]  Go runtime version: go1.16.4
+2021-12-18T14:01:36.790-0500 [INFO]  CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "init", "-reconfigure"}
+2021-12-18T14:01:36.801-0500 [INFO]  Loading CLI configuration from C:\Users\prestopa\AppData\Roaming\terraform.d\credentials.tfrc.json
+2021-12-18T14:01:36.803-0500 [INFO]  CLI command args: []string{"init", "-reconfigure"}
+2021-12-18T14:01:38.404-0500 [INFO]  Failed to read plugin lock file C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: open C:\data-uni\OneDrive\02.00.00.GENERAL\repos\git\0072-CAF-AzureLandingZone-Online-Experiment\env\glb\plugins\windows_amd64\lock.json: The system cannot find the path specified.
