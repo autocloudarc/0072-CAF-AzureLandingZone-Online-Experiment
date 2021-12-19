@@ -19,7 +19,7 @@ Due to the sensitivity of the tenant id and KeyVault resource id values, use the
 2. terraform destroy -var tenant_id="`<your-actual-tenant-id>`" -var kvt_res_id="`<your-actual-keyvault-resource-id>`"
    
 3. Note that inside the **main.auto.tfvars** file, the invalid assigned values for the **tenant_id** and **kvt_res_id** values are; tenant_id = "`<tenantid>`" and kvt_res_id = "`<kvt_res_id>`" respectively which must *both* be overriden.
-   
+
 ## Target State Diagram
 
 ![_Figure: Target State Diagram_](./doc/images/0072-tsd-diagram.png "TSD")
@@ -28,8 +28,11 @@ Due to the sensitivity of the tenant id and KeyVault resource id values, use the
 
 Please feel free to get involved by reporting problems, suggest ideas or improve this project by making the code better.
 To report problems and suggest ideas, please create an issue for this script, which will ensure that it is properly addressed.
-For contributing to this project, please follow the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) for coding/testing practices and pull request requirements.
-This project is released under the [MIT license](https://mit-license.org/).
+For contributing to this project, please follow the following guides and references:
+
+1. [How To Contribute](<https://opensource.guide/how-to-contribute/>)
+2. [Microsoft Open Source Code of Conduct](<https://opensource.microsoft.com/codeofconduct/>) for coding/testing practices and pull request requirements.
+This project is released under the [MIT license](<https://mit-license.org/>).
 
 ## References
 
